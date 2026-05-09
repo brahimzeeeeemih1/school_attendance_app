@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516654123521",
+    "project_id": "school-attendance-app-4b924",
+    "storage_bucket": "school-attendance-app-4b924.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516654123521:android:4fe5b90bffd19d0d61ce00",
+        "android_client_info": {
+          "package_name": "com.school.app.school_attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRI8v3sy3HV3XowkMplvbHKCW1P0KV0VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
